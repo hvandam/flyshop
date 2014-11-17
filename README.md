@@ -1,7 +1,7 @@
 flyshop
 =======
 
-Contains all code and doc for a fly fishing store web application - a learning and demo project.
+Contains all code and doc for a fly fishing store web application - a learning and demo project that is contantly evolving.
 
 ##Overall project goals:
 This is a learning project.  The fundamental goal is to learn current web 2.0 technologies and demonstrate skill in using them on a real project.
